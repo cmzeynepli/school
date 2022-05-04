@@ -1,5 +1,6 @@
 # BLG223 Data Structures Code Repository
 You can follow the course using the following short videos
+- Author is https://github.com/ovatman
 
 ## 05-12.10	Introduction - Classes, objects, arrays, Templates, STL, complexity classes
 - [Containers Short Introduction](https://youtu.be/pOco9-1F8QQ)
