@@ -1,0 +1,4 @@
+git remote add origin git@github.com:cmzeynepli/school.git
+git branch -M brachname
+git push -u origin branch
+
